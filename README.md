@@ -103,7 +103,7 @@ A REST API for managing projects and tasks.
 ## 📫 Let's connect
 
 <!-- Replace the placeholders below with your real links, then delete this comment -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-saadeddin-13a9981b4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudsaad87871@gmail.com)
 
 <p align="center"><i>Thanks for stopping by! If something here looks interesting, feel free to reach out. ⭐</i></p>
